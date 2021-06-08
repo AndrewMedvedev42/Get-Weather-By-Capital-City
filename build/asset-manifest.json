@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Get-Weather-By-Capital-City/static/css/main.6fb9f6c0.chunk.css",
-    "main.js": "/Get-Weather-By-Capital-City/static/js/main.e5efea64.chunk.js",
-    "main.js.map": "/Get-Weather-By-Capital-City/static/js/main.e5efea64.chunk.js.map",
-    "runtime-main.js": "/Get-Weather-By-Capital-City/static/js/runtime-main.ab7b107d.js",
-    "runtime-main.js.map": "/Get-Weather-By-Capital-City/static/js/runtime-main.ab7b107d.js.map",
-    "static/js/2.081bdd8e.chunk.js": "/Get-Weather-By-Capital-City/static/js/2.081bdd8e.chunk.js",
-    "static/js/2.081bdd8e.chunk.js.map": "/Get-Weather-By-Capital-City/static/js/2.081bdd8e.chunk.js.map",
-    "static/js/3.836fa193.chunk.js": "/Get-Weather-By-Capital-City/static/js/3.836fa193.chunk.js",
-    "static/js/3.836fa193.chunk.js.map": "/Get-Weather-By-Capital-City/static/js/3.836fa193.chunk.js.map",
+    "main.css": "/Get-Weather-By-Capital-City/static/css/main.755f42aa.chunk.css",
+    "main.js": "/Get-Weather-By-Capital-City/static/js/main.b841d886.chunk.js",
+    "main.js.map": "/Get-Weather-By-Capital-City/static/js/main.b841d886.chunk.js.map",
+    "runtime-main.js": "/Get-Weather-By-Capital-City/static/js/runtime-main.3379a7de.js",
+    "runtime-main.js.map": "/Get-Weather-By-Capital-City/static/js/runtime-main.3379a7de.js.map",
+    "static/js/2.c4c83eb5.chunk.js": "/Get-Weather-By-Capital-City/static/js/2.c4c83eb5.chunk.js",
+    "static/js/2.c4c83eb5.chunk.js.map": "/Get-Weather-By-Capital-City/static/js/2.c4c83eb5.chunk.js.map",
+    "static/js/3.027b6cea.chunk.js": "/Get-Weather-By-Capital-City/static/js/3.027b6cea.chunk.js",
+    "static/js/3.027b6cea.chunk.js.map": "/Get-Weather-By-Capital-City/static/js/3.027b6cea.chunk.js.map",
     "index.html": "/Get-Weather-By-Capital-City/index.html",
-    "static/css/main.6fb9f6c0.chunk.css.map": "/Get-Weather-By-Capital-City/static/css/main.6fb9f6c0.chunk.css.map",
-    "static/js/2.081bdd8e.chunk.js.LICENSE.txt": "/Get-Weather-By-Capital-City/static/js/2.081bdd8e.chunk.js.LICENSE.txt"
+    "static/css/main.755f42aa.chunk.css.map": "/Get-Weather-By-Capital-City/static/css/main.755f42aa.chunk.css.map",
+    "static/js/2.c4c83eb5.chunk.js.LICENSE.txt": "/Get-Weather-By-Capital-City/static/js/2.c4c83eb5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab7b107d.js",
-    "static/js/2.081bdd8e.chunk.js",
-    "static/css/main.6fb9f6c0.chunk.css",
-    "static/js/main.e5efea64.chunk.js"
+    "static/js/runtime-main.3379a7de.js",
+    "static/js/2.c4c83eb5.chunk.js",
+    "static/css/main.755f42aa.chunk.css",
+    "static/js/main.b841d886.chunk.js"
   ]
 }

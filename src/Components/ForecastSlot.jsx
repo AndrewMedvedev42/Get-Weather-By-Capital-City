@@ -1,13 +1,16 @@
 import { useState, useEffect } from "react";
 import FadeIn from 'react-fade-in';
+import { trackPromise } from 'react-promise-tracker';
 
 function ForecastSlot({name}) {
   const [reqData, setReqData] = useState([])
   const [capitalCityName, setcapitalCityName] = useState()
   const [country, setCountry] = useState([])
+  
 
     const reqLink = `https://restcountries.eu/rest/v2/name/${name}`
     useEffect(()=>{
+      trackPromise(
             fetch(reqLink)
             .then((res)=>{return res.json()
             })
@@ -23,7 +26,7 @@ function ForecastSlot({name}) {
             .then((data)=>{ 
                 console.log(data);
                 setReqData(data)
-            }).catch((err)=>alert(err))
+            }).catch((err)=>alert(err)))
     },[reqLink])
 
     function calcDay(day){
