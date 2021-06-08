@@ -61,3 +61,11 @@ h2 {
 
 .loadingMessage {
   font-size: 1.5rem; }
+
+@media screen and (max-width: 600px) {
+  .slotstyle {
+    border-radius: 15px; }
+  main {
+    width: 100%; }
+  .inputSection {
+    flex-direction: column; } }

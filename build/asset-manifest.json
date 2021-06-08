@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Get-Weather-By-Capital-City/static/css/main.755f42aa.chunk.css",
+    "main.css": "/Get-Weather-By-Capital-City/static/css/main.4985edf7.chunk.css",
     "main.js": "/Get-Weather-By-Capital-City/static/js/main.b1c40d9c.chunk.js",
     "main.js.map": "/Get-Weather-By-Capital-City/static/js/main.b1c40d9c.chunk.js.map",
     "runtime-main.js": "/Get-Weather-By-Capital-City/static/js/runtime-main.ad39749f.js",
@@ -10,13 +10,13 @@
     "static/js/3.4185ff12.chunk.js": "/Get-Weather-By-Capital-City/static/js/3.4185ff12.chunk.js",
     "static/js/3.4185ff12.chunk.js.map": "/Get-Weather-By-Capital-City/static/js/3.4185ff12.chunk.js.map",
     "index.html": "/Get-Weather-By-Capital-City/index.html",
-    "static/css/main.755f42aa.chunk.css.map": "/Get-Weather-By-Capital-City/static/css/main.755f42aa.chunk.css.map",
+    "static/css/main.4985edf7.chunk.css.map": "/Get-Weather-By-Capital-City/static/css/main.4985edf7.chunk.css.map",
     "static/js/2.d9f3caed.chunk.js.LICENSE.txt": "/Get-Weather-By-Capital-City/static/js/2.d9f3caed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ad39749f.js",
     "static/js/2.d9f3caed.chunk.js",
-    "static/css/main.755f42aa.chunk.css",
+    "static/css/main.4985edf7.chunk.css",
     "static/js/main.b1c40d9c.chunk.js"
   ]
 }
