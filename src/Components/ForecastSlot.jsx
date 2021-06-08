@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import FadeIn from 'react-fade-in';
 import { trackPromise } from 'react-promise-tracker';
 
+
 function ForecastSlot({name}) {
   const [reqData, setReqData] = useState([])
   const [capitalCityName, setcapitalCityName] = useState()

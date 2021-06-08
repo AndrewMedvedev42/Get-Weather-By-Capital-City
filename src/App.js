@@ -2,17 +2,20 @@ import { useState } from "react";
 import ForecastSlot from "./Components/ForecastSlot"
 import "./styles/css/index.css"
 import { usePromiseTracker } from "react-promise-tracker";
+import Loader from 'react-loader-spinner';
 
 
 function App() {
   const [countryName, setCountryName] = useState()
-  const [name, setName] = useState("Usa")
+  const [name, setName] = useState("Japan")
 
   const LoadingIndicator = props => {
     const { promiseInProgress } = usePromiseTracker();
     return (
       promiseInProgress &&
-      <h1 className="loadingMessage slotstyle">Hey some async call in progress ! </h1>
+   <div class=" slotstyle loaderAnimation">
+      <Loader type="ThreeDots" color="black" height="100" width="100"/>
+    </div>
   );  
   }
 
