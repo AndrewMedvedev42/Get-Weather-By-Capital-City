@@ -46,6 +46,8 @@ function ForecastSlot({name}) {
                     <h2>Wind: {wind}</h2>
                 </div>) 
       });
+    }else{
+      console.log("No forecast");
     }
   return (
       <FadeIn>
